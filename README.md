@@ -1,12 +1,14 @@
 <h1 align='center'>👋 Hi, I’m Cheikh Kebe</h1>
 
 I'm a __Junior FullStack developer__ based in __France__. I'm on a professionnal retraining. I have always been interested
-in web developement and working with other people is the best way to move forward.
+in web developement and working with other people is the best way to move forward. I'm currently looking for my first job, if you've some advices,
+send me a message on my portfolio!! 
 
 <h1 align='center'>Links</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheikh-kebe-158948127/">My Linkedin</a>
+  <h2><a href="https://www.linkedin.com/in/cheikh-kebe-158948127/">My Linkedin</a></h2>
+  <h2><a href="https://cheikhportfolio.netlify.app">My Portfolio</a></h2>
 </p>
 
 <h1 align='center'>Stacks</h1>
